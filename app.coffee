@@ -1,2 +1,0 @@
-ponzir = require 'ponzir'
-

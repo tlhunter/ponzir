@@ -27,7 +27,7 @@ This thing will need lots of nicely weighted equations to work smoothly.
 * **Central Authority [CA]**: This is the highest level of the Ponzir hierarchy. It might not need to actually exist though.
 * **Inner Circle [IC]**: This is the direct children of the [CA] node. They can democratically make decisions for the whole network.
 * **Generic Node [GN]**: This represents every other node. Nodes entering the network for the first time are [GN]'s.
-* **Node [N]**: This represents every single node.
+* **Node [N]**: This represents a single node of any level.
 
 ## Point Distribution
 
