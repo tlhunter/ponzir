@@ -14,4 +14,7 @@ if (argv.opts.establish) {
   ponzir.establish();
 }
 
-ponzir.listen(argv.opts.port, argv.opts.iface);
+ponzir
+	.setAddress(argv.opts.address)
+	.setPort(argv.opts.port)
+	.listen();
